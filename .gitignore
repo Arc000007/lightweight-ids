@@ -1,0 +1,30 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local datasets and generated experiment artifacts
+data/
+CICIOT2023/
+TON_IOT/
+CIC-IDS- 2017/
+CSE-CIC-IDS2018/
+Edge-IIoTset/
+*.csv
+*.parquet
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+*.pickle
+ids_training.log
+models/
+results/
+CIC-IDS- 2017_AutoEncoder.json
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/

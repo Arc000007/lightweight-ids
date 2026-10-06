@@ -53,8 +53,8 @@ The application is designed for binary benign-versus-attack classification. Conf
 ## Installation
 
 ```bash
-git clone <your-repository-url>
-cd <repository-directory>
+git clone https://github.com/Arc000007/lightweight-ids.git
+cd lightweight-ids
 python -m venv .venv
 ```
 
